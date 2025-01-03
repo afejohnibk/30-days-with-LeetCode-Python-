@@ -3,7 +3,7 @@
   The problem states that we should remove the duplicates such that the result remaining in non-descending order.
   For that we will need to use two pointers, one to iterate through to check 
   our values and one to serve as a place holder to modify our values.
-  
+  Left is starting as one because, the first element is automatically a unique value
 """
 
 
