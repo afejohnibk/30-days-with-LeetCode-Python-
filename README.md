@@ -83,7 +83,7 @@ Problems to solve:
 Tackle trees, heaps, and graphs.
 
 #### Day 15-16: Trees
- - Learn binary tree traversals (inorder, preorder, postorder).
+ - Learn binary tree traversals (inorder, preorder, postorder)
    
 Problems to solve:
  - Maximum Depth of Binary Tree
