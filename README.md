@@ -28,6 +28,7 @@ Problems to solve:
 Solve problems:
  - Contains Duplicate
  - Intersection of Two Arrays
+ - Group Anagram
 
 #### Day 5-6: Two Pointers
  - Learn how to use two-pointer techniques.
@@ -35,10 +36,9 @@ Solve problems:
 Problems to solve:
  - Valid Palindrome
  - Two Sum II - Input Array is Sorted
+ - Move Zeros
 
 #### Day 7: Review & Practice
- - Group Anagrams
- - Move Zeroes
  - Revisit tricky problems.
  - Solve a mix of problems from this week.
 
