@@ -36,7 +36,7 @@ Solve problems:
 Problems to solve:
  - Valid Palindrome
  - Two Sum II - Input Array is Sorted
- - Move Zeros
+ - Move Zeroes
 
 #### Day 7: Review & Practice
  - Revisit tricky problems.
