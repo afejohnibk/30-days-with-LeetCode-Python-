@@ -8,7 +8,7 @@ Focus on basic data structures, simple algorithms, and essential Python concepts
  - Learn basic array manipulations.
    
 Solve beginner-level problems:
- - Two Sumjlhk
+ - Two Sum
  - Best Time to Buy and Sell Stock
  - Remove Duplicates from Sorted Array
  - Maximum subarray
