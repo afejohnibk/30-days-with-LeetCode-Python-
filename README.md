@@ -8,11 +8,11 @@ Focus on basic data structures, simple algorithms, and essential Python concepts
  - Learn basic array manipulations.
    
 Solve beginner-level problems:
- - Two Sum
- - Best Time to Buy and Sell Stock
- - Remove Duplicates from Sorted Array
- - Maximum subarray
- - Median of Two Sorted Arrays
+ - Two Sum.
+ - Best Time to Buy and Sell Stock.
+ - Remove Duplicates from Sorted Array.
+ - Maximum subarray.
+ - Median of Two Sorted Arrays.
 
 #### Day 3: Strings
  - Focus on string operations like reversing, checking palindromes, and substrings.
