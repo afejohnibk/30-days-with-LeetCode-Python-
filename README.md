@@ -18,9 +18,9 @@ Solve beginner-level problems:
  - Focus on string operations like reversing, checking palindromes, and substrings.
    
 Problems to solve:
- - Reverse String
- - Valid Anagram
- - Longest Common Prefix
+ - Reverse String.
+ - Valid Anagram.
+ - Longest Common Prefix.
 
 #### Day 4: HashMaps & Sets
  - Understand dictionary and set operations in Python.
